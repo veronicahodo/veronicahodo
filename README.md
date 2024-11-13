@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, and stuff.
+Nearly half a decade old.
+VB Developer->IT Director->Chef->React Devleoper on the worlds most awesome site for electric squirrel cage motors!
+
+See the site for goodies. If I haven't tore it down again. I do that a lot. I'll get it the way I want one day lol.
 
 <!--
 **veronicahodo/veronicahodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
