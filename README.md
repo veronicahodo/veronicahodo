@@ -5,6 +5,8 @@ VB Developer->IT Director->Chef->React Devleoper on the worlds most awesome site
 See the site for goodies. If I haven't tore it down again. I do that a lot. I'll get it the way I want one day lol.
 
 ![React](https://img.shields.io/badge/-React-black?&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?&logo=nodedotjs)
+![PHP](https://img.shields.io/badge/PHP-black?&logo=php)
 <!--
 **veronicahodo/veronicahodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
