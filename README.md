@@ -7,6 +7,7 @@ See the site for goodies. If I haven't tore it down again. I do that a lot. I'll
 ![React](https://img.shields.io/badge/-React-black?&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-black?&logo=nodedotjs)
 ![PHP](https://img.shields.io/badge/PHP-black?&logo=php)
+![Rust](https://img.shelds.io/badge/Rust-black?&logo=rust)
 <!--
 **veronicahodo/veronicahodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
